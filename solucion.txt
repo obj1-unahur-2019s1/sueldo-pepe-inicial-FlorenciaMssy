@@ -1,0 +1,10 @@
+def neto():
+    
+    categoria = input()
+    neto = 0
+    
+    if (categoria == "gerente")
+        neto = 15000
+        
+    if (categoria == "cadete")
+        neto = 20000
